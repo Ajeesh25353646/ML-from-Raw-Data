@@ -1,6 +1,6 @@
-# Portfolio: Data Analysis and Machine Learning Projects in High-Energy Physics
+# Advanced Data Analysis and Machine Learning Projects 
 
-This repository showcases a series of advanced data analysis and machine learning projects performed in the context of high-energy physics experiments. The projects demonstrate the application of sophisticated algorithms to large-scale, complex datasets, from neutrino astronomy with the IceCube Observatory to particle physics at CERN.
+This repository showcases advanced data analysis and machine learning projects applied to large-scale, statistically complex datasets. The work focuses on rare-event (signal) extraction, anomaly detection and classification, supported by a strong understanding of detector behavior and data acquisition systems.
 
 ## Core Competencies
 
